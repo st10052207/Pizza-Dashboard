@@ -23,6 +23,14 @@ The goal of this project is to create a clear and easy-to-use Excel dashboard th
 -Drew business insights to identify popular pizzas, customer preferences, and areas for improvement.
 ##Dashboard
 <img width="1920" height="1080" alt="Screenshot 2025-07-29 224002" src="https://github.com/user-attachments/assets/29027915-9f6e-471e-b5da-d6341a57f086" />
+##Project Insights
+-Large-sized pizzas contribute the highest percentage to total sales.
+-A few specific pizza names dominate sales, showing strong customer preference.
+-Top 5 best sellers drive a major portion of revenue.
+-Bottom 5 pizzas have very low sales, indicating possible issues with popularity, pricing, or visibility.
+-Sales trends can help plan promotions, stock, and marketing more effectively.
+##Final Conclusion
+This project made it easier to understand how the pizza business is doing. The dashboard gives a clear view of what’s selling well and what’s not. It can really help the business improve sales by focusing on the right products and making better decisions based on real data.
 
 
 
