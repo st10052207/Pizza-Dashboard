@@ -7,7 +7,9 @@ The goal of this project is to create a clear and easy-to-use Excel dashboard th
 
 ## Question KPI
 -What is the percentage of sales contributed by each pizza name?
+
 -What is the percentage of sales by pizza size?
+
 -How many pizzas were sold by each pizza name?
 -Which are the top 5 best-selling pizzas based on quantity sold?
 -Which are the top 5 worst-selling pizzas based on quantity sold?
