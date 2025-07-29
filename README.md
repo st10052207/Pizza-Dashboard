@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="Screenshot 2025-07-29 224002" src="https://github.com/user-attachments/assets/5f910d79-6181-4e71-8cbd-c07f56371573" /># Pizza-Dashboard( interactive Excel dashboard )
+# Pizza-Dashboard( interactive Excel dashboard )
 ## Project Objective
 The goal of this project is to create a clear and easy-to-use Excel dashboard that shows how a pizza business is doing. It helps track total sales, find out which pizzas are selling the most (and the least), see which days or months are the busiest, and understand customer buying patterns. This makes it easier for the business to make smart decisions—like what pizzas to promote or when to run special offers.
 ## Dataset Used
