@@ -11,20 +11,31 @@ The goal of this project is to create a clear and easy-to-use Excel dashboard th
 -What is the percentage of sales by pizza size?
 
 -How many pizzas were sold by each pizza name?
+
 -Which are the top 5 best-selling pizzas based on quantity sold?
+
 -Which are the top 5 worst-selling pizzas based on quantity sold?
 - dashboard interaction <a href="https://github.com/st10052207/Pizza-Dashboard/blob/main/Screenshot%202025-07-29%20224002.png">View Dashboard</a>
 
 ## Process
 -Collected and cleaned pizza sales data in Excel by removing errors, blanks, and formatting columns.
+
 -Analyzed data using pivot tables to calculate total sales, quantity sold, and sales distribution by size and name.
+
 -Created key KPIs like % of sales by size, top 5 best/worst sellers, and total pizzas sold.
+
 -Designed an interactive dashboard using charts, pivot tables, and slicers for easy filtering and insights.
+
 -Drew business insights to identify popular pizzas, customer preferences, and areas for improvement.
+
 -Collected and cleaned pizza sales data in Excel by removing errors, blanks, and formatting columns.
+
 -Analyzed data using pivot tables to calculate total sales, quantity sold, and sales distribution by size and name.
+
 -Created key KPIs like % of sales by size, top 5 best/worst sellers, and total pizzas sold.
+
 -Designed an interactive dashboard using charts, pivot tables, and slicers for easy filtering and insights.
+
 -Drew business insights to identify popular pizzas, customer preferences, and areas for improvement.
 
 ## Dashboard
@@ -32,9 +43,13 @@ The goal of this project is to create a clear and easy-to-use Excel dashboard th
 
 ## Project Insights
 -Large-sized pizzas contribute the highest percentage to total sales.
+
 -A few specific pizza names dominate sales, showing strong customer preference.
+
 -Top 5 best sellers drive a major portion of revenue.
+
 -Bottom 5 pizzas have very low sales, indicating possible issues with popularity, pricing, or visibility.
+
 -Sales trends can help plan promotions, stock, and marketing more effectively.
 
 ## Final Conclusion
